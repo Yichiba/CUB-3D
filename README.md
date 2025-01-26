@@ -68,12 +68,6 @@ The simulation of the 3D perspective of the raycasting is operated by size of th
 ![Screenshot from 2023-01-30 16-12-01](https://user-images.githubusercontent.com/93100775/215516735-f8ce45e1-cb8a-48fb-bb8f-835a197ff825.png)
 
 
-### Final rendering
-
-Here is an example of the final graphic rendering of the project, using the textures of the original doom game, as well as a minimap and a RGB color set :
-
-![Screenshot from 2023-01-30 16-00-04](https://user-images.githubusercontent.com/93100775/215512948-b1079c1e-c73d-4fb2-80c4-3c19b7d2153d.png)
-
 
 ## Installation
 
